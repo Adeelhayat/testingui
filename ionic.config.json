@@ -1,0 +1,7 @@
+{
+  "name": "testingui",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
